@@ -1,0 +1,25 @@
+cd downloads 
+#1 
+sed "/zoo/d" pandas.tsv | sed "/Zoo/d" >> panda_zoos.txt
+#2 
+grep -v "sex" pandas.tsv | sort -k2,2 | awk '{print $1, $4, $2}' >> sorted_pandas.txt
+#3
+sort -k5,5 pandas.tsv | awk '{print $5}' >> panda_zoos_A2Z.txt
+or alt. 
+grep -v "location" pandas.tsv | cut -f5 | sort >> panda_zoos_A2Z.txt
+#4
+sed 's/male/M/g' pandas.tsv | sed 's/female/F/g' >> panda_m_f.txt 
+#5
+grep "female" pandas.tsv | grep -c "October"
+#6 
+grep -n 1 pandas.tsv > panda_names.txt ; tail -n +2 pandas.tsv | grep -n "^" >> pandas_nameddd.txt
+or alt. 
+grep -n "le" pandas.tsv >> panda_nameds.txt
+#7
+sed -n "1p;6p;17p" pandas.tsv >> lines_1_6_17.txt
+#8
+grep -i "x" pandas.tsv >> x_lines.txt
+#9
+awk '{ print $5 }' pandas.tsv | sort|uniq -u >> unique_places.txt
+#10 
+awk '$4<11 {print $1, $4}' pandas.tsv | sort -nk 2 >> young_pandas.txt
