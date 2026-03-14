@@ -1,3 +1,5 @@
+#!/bin/bash
+
 greeting=Hello
 your_name=Danica
 echo "$greeting $your_name";echo "This scriot is helping you learn bash"
