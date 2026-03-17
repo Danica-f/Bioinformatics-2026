@@ -7,4 +7,4 @@ mkdir bioinformatics
 cd bioinformatics 
 pkdir bioinformatics/bash_scripts
 mv ~/Desktop/bash_template.txt /Users/danicalfox/bioinformatics/bioinformatics/bash_scripts
-mv bash_template.text bash_template.sh
+mv bash_template.txt bash_template.sh
