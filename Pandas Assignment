@@ -8,7 +8,7 @@ sort -k5,5 pandas.tsv | awk '{print $5}' >> panda_zoos_A2Z.txt
 or alt. 
 grep -v "location" pandas.tsv | cut -f5 | sort >> panda_zoos_A2Z.txt
 #4
-sed 's/male/M/g' pandas.tsv | sed 's/female/F/g' >> panda_m_f.txt 
+sed -e 's/female/F/g' -e 's/male/M/g' pandas.tsv >> panda_m_f.txt
 #5
 grep "female" pandas.tsv | grep -c "October"
 #6 
