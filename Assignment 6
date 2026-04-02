@@ -1,0 +1,60 @@
+Online Browser Scavenger Hunt
+#1 How many splice varients does the human BRCA2 gene have? 
+19 transcripts (splice variants)
+
+#2 How many exons are in the longest splice variant of BRCA2?
+27 exons in 
+
+#3 How many introns are in the longest splice variant of BRCA2?
+26 introns 
+
+#4 What chromosome is this gene on? 
+Chromosome 13: 32, 315, 086-32, 400, 268 forward strand
+
+#5 What are the gene synonyms of BRCA2?
+BRCC2, FACD, FAD, FAD1, FANCD, FANCD1, XRCC11
+
+#6 How many orthologs of human BRCA2 are found in the African osterich? 
+1 ortholog 
+
+#7 In the human hemoglobin transcript ENST00000330597.5 HBG1-201, what is the sequence of the second exon?
+GCTCCTGGTTGTCTACCCATGGACCCAGAGGTTCTTTGACAGCTTTGGCAACCTGTCCTCTGCCTCTGCCATCATGGGCAACCCCAAAGTCAAGGCACATGGCAAGAAGGTGCTGACTTCCTTGGGAGATGCCACAAAGCACCTGGATGATCTCAAGGGCACCTTTGCCCAGCTGAGTGAACTGCACTGTGACAAGCTGCATGTGGATCCTGAGAACTTCAAG
+
+#8 What is the length of the first intron of this hemoglobin transcript?
+122 base pairs
+
+#9 How many pseudogenes are in the narwal genome annotaIon (NGI_Narwhal_1, INSDC Assembly GCA_005190385.2)?
+723 pseudogenes 
+
+#10 What two genes flank BRCA2 in the human genome?
+N4BP2L1 and ZARIL
+
+#11 What genes flank the sonic hedgehog gene (shh) in the be4a (Siamese fighIng) fish?
+RBM33 and rnf32
+
+#12 How many copies of shh are in the be4a (Siamese fighIng) fish?
+1 shh copy 
+
+#13 How many copies of shh are in AtlanIc salmon?
+2 shh copies 
+
+#14 How many genome assemblies are available for Bos taurus on NCBI?
+198 genome assemblies 
+
+#15 How many of the above assemblies are assembled into chromosomes?
+25 genome assemblies 
+
+#16 How many chromosomes does Bos taurus have excluding sex chromosomes?
+29 chromosome pairs
+
+#17 Which cow chromosome is the longest?
+Chromosome 1
+
+#18 How many microRNAs are annotated on chromosome the assembly: Bos taurus ARS-UCD2.0?
+1115 micro RNAs
+
+#19 If I am interested in learning more about the gene associate with the transcript: NM_001104822, what is a good publicaion to read on PubMed?
+One article you could read is Yasumasu, S., Yamada, K., Akasaka, K., Mitsunaga, K., Iuchi, I., Shimada, H., & Yamagami, K. (1992). Isolation of cDNAs for LCE and HCE, two constituent proteases of the hatching enzyme of Oryzias latipes, and concurrent expression of their mRNAs during development. Developmental biology, 153(2), 250–258. https://doi.org/10.1016/0012-1606(92)90110-3
+
+#20 What is the translated coding sequence of NM_001104822
+MDLLAKASVLLLLLLSLSNAQTDNMEEAENGSSKEEIDESELEDVSSIIFRMNNNSMEELLEGDLVLPKTRNAMKCFGAPDSCRWPKSSNGIVKVPYVVSDNYESDEKETIRNAMKEFAEKTCIHFVPRNNERAYLSLEPRFGCKSMMGYVGDKQVVVLQ RFGCIKHAVIQHELLHALGFYHEHTRSDRDQHVKINWENIIKDFTHNFDKNDTDNLGTPYDYGSIMHYGRTAFGKDRKETITPIPNPKAAIGQTERMSDIDILRVNKLYKC
